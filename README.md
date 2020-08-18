@@ -1,12 +1,14 @@
 # keyboard-ascii
 GENERA INFORMATION:
    You have been hired by a company that makes keyboards.  The company is doing a test to see which keys on the keyboard are used the most and the least.  The assumption is the keys used the most will have to have better hardware and the keys used the least can have cheaper hardware.  In order to be competitive in the marketplace, it is important to obtain data on the use of the keys on the keyboard. 
+   
   The program will have the following menu:
   1.	Press a Key(s) on Keyboard
   2.	Display how many of each key that has been pressed (in order from high to low)
   3.	Display the key that have never been pressed
   4.	Display the key that has been pressed the most
   5.	Quit
+  
  FEATURES:
   1.	Design tool 
   2.	Program look and feel and layout
